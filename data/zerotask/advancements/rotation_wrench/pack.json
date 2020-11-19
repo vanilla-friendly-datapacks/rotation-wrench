@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "An item that can be used to rotate blocks.",
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:1340000}"
+    },
+    "show_toast": false,
+    "title": "Rotation Wrench"
+  },
+  "parent": "global:zerotask"
+}
