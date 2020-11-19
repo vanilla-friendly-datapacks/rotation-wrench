@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:barrel",
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:hopper",
+    "minecraft:observer",
+    "minecraft:piston",
+    "minecraft:sticky_piston"
+  ]
+}
