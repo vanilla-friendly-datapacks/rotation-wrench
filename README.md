@@ -6,6 +6,10 @@
 
 Download the latest release from [here][latest] and put the zip file into the `datapacks` folder of your Minecraft world.
 
+## Uninstallation
+
+To uninstall the datapack, run the `zerotask:rotation_wrench/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
+
 ## Crafting
 
 Currently, crafting is yet not implemented and the item can only be obtained by invoking `function zerotask:rotation_wrench/admin/give`.
